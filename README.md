@@ -1,4 +1,4 @@
-# Stock
+# Taiwan Stock
 This is a project trying to predict stock with deep learning by keras. 
 ## Volume
 
