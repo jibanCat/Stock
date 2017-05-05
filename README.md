@@ -2,6 +2,7 @@
 This is a project trying to predict stock with deep learning by keras. 
 ## Volume
 
+
 ### Example
 ## Index
 ### Example
@@ -10,3 +11,4 @@ This is a project trying to predict stock with deep learning by keras.
 
 ## Version
 python 3.5
+python 3.6
